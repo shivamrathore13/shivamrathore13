@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shivamrathore13
 - 👀 I’m interested in data scientist 
-- 🌱 I’m currently learning html
+- 🌱 I’m currently enhancing my skils in JAVA
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me yeshivamrathore@gmail.com
 
