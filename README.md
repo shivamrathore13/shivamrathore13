@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shivamrathore13
 - 👀 I’m interested in data scientist 
 - 🌱 I’m currently enhancing my skils in JAVA
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on web development as I am a frontend web developer 
 - 📫 How to reach me yeshivamrathore@gmail.com
 
 <!---
